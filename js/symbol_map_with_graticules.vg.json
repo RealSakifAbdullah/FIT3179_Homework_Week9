@@ -62,7 +62,7 @@
         "color": {
           "field": "Number of Dead",
           "type": "quantitative",
-          "title": "Depth in km",
+          "title": "Number of Dead",
           "scale": {
             "type": "threshold",
             "domain": [
